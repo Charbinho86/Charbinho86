@@ -4,7 +4,7 @@
 
 #####  1. Olá, eu sou @Charbinho86 :man:
 
-#####  2. Minha família é composta por 4 pessoas: Eu, minha esposa Ariane, meu filho Marlon e minha filha Fernanda :family_man_woman_girl_boy:  
+#####  2. Minha família é composta por 4 pessoas: Eu Charbio, minha esposa Ariane, meu filho Marlon e minha filha Fernanda :family_man_woman_girl_boy:  
 
 #####  3. Tenho especialização nas áreas de Eletrônica e Automação Industrial :man_student:
 
