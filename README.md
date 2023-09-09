@@ -58,7 +58,7 @@ Sou oriundo da manutenção de equipamentos elétricos industriais. Cursei Elét
      <td>09/09/2023</td>
       <td>Customização de Perfil no GitHub</td>
       <td align="center">
-        <a href="[https://www.dio.me/users/charbiosilva/](https://web.dio.me/articles/customizacao-de-perfil-no-github?back=%2Farticles&open-modal=true&page=1&order=oldest)">
+        <a href="https://web.dio.me/articles/customizacao-de-perfil-no-github?back=%2Farticles&open-modal=true&page=1&order=oldest">
           <img align="center" alt="Link" src="https://img.shields.io/badge/Ler_Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
