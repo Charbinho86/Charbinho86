@@ -46,15 +46,7 @@ Sou oriundo da manutenção de equipamentos elétricos industriais. Cursei Elét
   </thead>
   <tbody align="left">
     <tr>
-      <td>08/09/2023</td>
-      <td>Implementando o Readme do GitHub "Teste"</td>
-      <td align="center">
-        <a href="https://www.dio.me/users/charbiosilva/">
-          <img align="center" alt="Link" src="https://img.shields.io/badge/Ler_Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
+     <tr>
       <td>08/09/2023</td>
       <td>Trabalhando com Readme do GitHub "Teste"</td>
       <td align="center">
@@ -62,6 +54,15 @@ Sou oriundo da manutenção de equipamentos elétricos industriais. Cursei Elét
           <img align="center" alt="Link" src="https://img.shields.io/badge/Ler_Artigo-E94D5F?style=for-the-badge">
         </a>
       </td>
+    </tr>
+     <td>09/09/2023</td>
+      <td>Customização de Perfil no GitHub</td>
+      <td align="center">
+        <a href="[https://www.dio.me/users/charbiosilva/](https://web.dio.me/articles/customizacao-de-perfil-no-github?back=%2Farticles&open-modal=true&page=1&order=oldest)">
+          <img align="center" alt="Link" src="https://img.shields.io/badge/Ler_Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    
     </tr>
   </tbody>
 </table>
